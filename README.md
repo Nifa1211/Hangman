@@ -1,0 +1,1 @@
+A classic word-guessing game brought to life with HTML, CSS, and JavaScript. Test your vocabulary and deduction skills by guessing the hidden word, one letter at a time. But be careful—every wrong guess brings the stick figure closer to the gallows!
